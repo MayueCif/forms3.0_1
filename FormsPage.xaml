@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="forms3._1.FormsPage">
+	<ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="Android" Value="0, 0, 0, 0"/>
+            <On Platform="iOS" Value="0, 80, 0, 0"/>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <StackLayout >
+        <Label Text="This is Forms Page" HorizontalOptions="Center"/>
+        <Button Text="Go Native Page" HorizontalOptions="Center" Clicked="Handle_Clicked"/>
+    </StackLayout>
+</ContentPage>

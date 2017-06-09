@@ -1,0 +1,13 @@
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/forms3.0_1.dll
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/Xamarin.Forms.Core.dll
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/Xamarin.Forms.Platform.dll
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/Xamarin.Forms.Core.dll.mdb
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/Xamarin.Forms.Core.xml
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/Xamarin.Forms.Platform.dll.mdb
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/Xamarin.Forms.Xaml.dll.mdb
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/bin/Release/Xamarin.Forms.Xaml.xml
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/obj/Release/forms3.0_1.csprojResolveAssemblyReference.cache
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/obj/Release/forms3.0_1.csproj.CoreCompileInputs.cache
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/obj/Release/forms3._1.FormsPage.xaml.g.cs
+/Users/Myue/Desktop/forms3.0_1/forms3.0_1/obj/Release/forms3.0_1.dll
